@@ -1,7 +1,7 @@
 [
     {
-        "Name": "chromium_third_party_flatbuffers",                   # 上游开源软件名全称
-        "License": "Google"  ,"zlib-acknowledgement"        # 上游开源软件中包含的许可证信息
+        "Name": "flatbuffers",                   # 上游开源软件名全称
+        "License":"zlib-acknowledgement"        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.txt",       # 许可证所在文件路径
         "Version Number": "b8aaccee8248059b2af032cca0eb1d2ddbdb6cdc",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/flatbuffers.git@b8aaccee8248059b2af032cca0eb1d2ddbdb6cdc",   # 上游软件包发布地址
