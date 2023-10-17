@@ -7,5 +7,14 @@
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/flatbuffers.git@b8aaccee8248059b2af032cca0eb1d2ddbdb6cdc",
         "Description": "第三方软件flatbuffers"
+    },
+    {
+        "Name": "flatbuffers",
+        "License":"ImageMagick",
+        "License File": "LICENSE.txt",
+        "Version Number": "b8aaccee8248059b2af032cca0eb1d2ddbdb6cdc",
+        "Owner": "huangjiewen2@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/flatbuffers.git@b8aaccee8248059b2af032cca0eb1d2ddbdb6cdc",
+        "Description": "第三方软件flatbuffers"
     }
 ]
