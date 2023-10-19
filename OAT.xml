@@ -91,7 +91,7 @@ used to filter file path.
                 <filteritem type="filepath" name="kotlin/benchmark/src/jvmMain/java" desc="chromium原生二进制文件不会使用" />
                 <filteritem type="filepath" name="ktests/gold_flexbuffer_example.bin" desc="chromium原生二进制文件不会使用" />
                 <filteritem type="filepath" name="tests/gold_flexbuffer_example.bin" desc="chromium原生二进制文件不会使用" />
-            </filefilter> 
+            </filefilter>
         </filefilterlist>
         <licensematcherlist>
         <licensematcher name="Apache-2.0" desc="">
