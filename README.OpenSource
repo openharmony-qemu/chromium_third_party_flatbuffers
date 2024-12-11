@@ -2,7 +2,7 @@
     {
         "Name": "flatbuffers",
         "License":"Apache-2.0",
-        "License File": "LICENSE.txt",
+        "License File": "LICENSE",
         "Version Number": "b8aaccee8248059b2af032cca0eb1d2ddbdb6cdc",
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/flatbuffers.git@b8aaccee8248059b2af032cca0eb1d2ddbdb6cdc",

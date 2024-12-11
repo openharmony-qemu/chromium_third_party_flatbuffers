@@ -80,7 +80,7 @@ used to filter file path.
                 <filteritem type="filepath" name="rust/flatbuffers/Cargo.toml" desc="chromium原生文件无license" />
             </filefilter>
             <filefilter name="defaultFilter" desc="Filter is not used">
-                <filteritem type="filepath" name="android.*" desc="经确认不适用该类文件" />
+                <filteritem type="filepath" name="android.*" desc="经确认不使用该类文件" />
             </filefilter>
             <filefilter name="readmeOpenSourcefileNamePolicFilter">
                 <filteritem type="filepath" name="README.OpenSource" desc="Filter readme.opensource files" />
