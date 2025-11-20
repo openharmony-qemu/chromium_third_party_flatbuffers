@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "flatbuffers",
+        "License":"Apache-2.0",
+        "License File": "LICENSE.txt",
+        "Version Number": "8db59321d9f02cdffa30126654059c7d02f70c32",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/flatbuffers.git@8db59321d9f02cdffa30126654059c7d02f70c32",
+        "Description": "第三方软件flatbuffers,一个开源的、跨平台的、高效的、提供了多种语言接口的序列化工具库"
+    }
+]
